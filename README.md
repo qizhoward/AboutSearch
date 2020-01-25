@@ -101,7 +101,7 @@ __________________________________________________________________
                      you can think boy point to girl point
        
        
-［!image］(https://github.com/qizhoward/AboutSearch/blob/master/shuoming.PNG)       
+ ![image](https://github.com/qizhoward/AboutSearch/blob/master/shuoming.PNG)       
        
        
        
