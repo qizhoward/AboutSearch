@@ -78,6 +78,30 @@ __________________________________________________________________
                                | 　　　　　　　　　　　　 |
                                |－－－－－－－－－－－－－| 
        
+                          
+                          
+                    other think point to point
+                            |－－－|
+                            |－－－|
+           　　　　　searcher|－－－|search er搜索的人
+                            |－－－|
+                            |－－－|－－－预域冗
+                            |－－－|　　|－－－分支
+                            |－－－|　　    |
+                            |－－－|
+                 进入单方循环|－－－|
+                            |－－－|
+       　　　　　　　　　|－－|      |－－|     if
+                    |－| |－|      |－| |－|   eles use linux loop
+                 　　　　　　　　　 |－－|　　　 use feedback
+                            |－－－|
+                            |－－－|use linux loop and feedback
+                            |－－－|分支恢复正常
+
+                     you can think boy point to girl point
+       
+     
+      
        
        Because Chinese prince, Queen Mother, Xi Jinping, Peng Liyuan, 
        I choose to keep the algorithm secret, and the algorithm is kept secret forever.
